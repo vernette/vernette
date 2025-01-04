@@ -6,10 +6,6 @@ I have a deep affinity for Linux and work primarily in this environment. Additio
 
 ## 🛠️ Languages and Tools
 
-I use <img src="https://skillicons.dev/icons?i=arch" style="vertical-align: middle; width: 30px; height: 30px;">, btw
-
-And many others technologies:
-
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,lua,linux,bash,docker,redis,ansible,git,githubactions,azure,nginx,postgresql,sqlite,mysql,neovim,vscode,pycharm,postman,obsidian,html,css,react,bootstrap&theme=dark" />
 
 ## 📊 Stats
