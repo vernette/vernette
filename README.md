@@ -6,9 +6,15 @@ I have a deep affinity for Linux and work primarily in this environment. Additio
 
 ## 🛠️ Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,lua,linux,bash,docker,redis,ansible,git,githubactions,azure,nginx,postgresql,sqlite,mysql,neovim,vscode,pycharm,postman,obsidian,html,css,react,bootstrap&theme=dark" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?&perline=12&&theme=light&i=python,django,fastapi,lua,nix,linux,bash,docker,redis,ansible,grafana,prometheus,git,githubactions,azure,nginx,postgresql,sqlite,mysql,neovim,vscode,pycharm,postman,obsidian,html,css,react,bootstrap" />
+  </a>
+</p>
 
 ## 📊 Stats
 
-![Overview](https://raw.githubusercontent.com/vernette/github-stats-transparent/output/generated/overview.svg)
-![Languages](https://raw.githubusercontent.com/vernette/github-stats-transparent/output/generated/languages.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vernette&hide_border=true&show_icons=true&theme=transparent&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vernette&hide_border=true&langs_count=8&theme=transparent&layout=compact" />
+</p>
