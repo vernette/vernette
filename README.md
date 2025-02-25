@@ -3,6 +3,9 @@
 _Python Developer_
 
 ```python
+from random import choice
+
+
 class Vernette:
     def __init__(self):
         self.code = [
@@ -16,6 +19,16 @@ class Vernette:
         self.databases = ["PostgreSQL", "SQLite", "MySQL", "Redis"]
         self.environment = ["Linux", "Windows"]
         self.linux_distributions = ["Arch Linux", "NixOS"]
+
+    def current_status(self):
+        statuses = [
+            "Refactoring code... again.",
+            "Chasing down a tricky bug.",
+            "Automating all the things!",
+            "Deploying... and hoping nothing breaks.",
+            "Reading logs and questioning life choices."
+        ]
+        return choice(statuses)
 ```
 
 <p align="center">
