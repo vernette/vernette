@@ -32,6 +32,6 @@ class Vernette:
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vernette&hide_border=true&show_icons=true&theme=transparent&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vernette&hide_border=true&hide_rank=true&show_icons=true&theme=transparent&layout=compact" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vernette&hide_border=true&langs_count=8&theme=transparent&layout=compact" />
 </p>
